@@ -1,0 +1,6 @@
+.env
+.playwright-cli/
+.playwright/
+node_modules/
+*.log
+.playwright-testing/.env
